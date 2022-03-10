@@ -1,5 +1,4 @@
-<h1 align='center'> Hi there 👋, I'm Fatam-Elzahar 👩‍💻 </h1>
-
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Fatam-Elzahar 👩‍💻 </h1>
 <h2>
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
   How to reach me
