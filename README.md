@@ -4,7 +4,7 @@
   <img src="https://github.com/Fatma-elzahra-Mo/Fatma-elzahra-Mo/blob/main/giphy.gif" />
 </p>
 
-<h3 align="center">I'm Data Analyst and Machine learning engineer from Egypt.</h3>
+<h3 align="center">I'm Data Analyst and Machine learning engineer.</h3>
 
 
 
