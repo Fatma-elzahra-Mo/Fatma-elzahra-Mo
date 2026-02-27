@@ -1,32 +1,53 @@
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">, I'm Fatam-Elzahar 👩‍💻 </h1>
+<h1 align="center">Hi, I'm Fatma Elzahra 👩‍💻</h1>
+  <h3 align="center">AI Engineer </h3>
 
-<p align="center">
-  <img src="https://github.com/Fatma-elzahra-Mo/Fatma-elzahra-Mo/blob/main/giphy.gif" />
-</p>
+  <p align="center">
+    Specializing in production LLM systems, multi-agent orchestration, and event-driven data pipelines.
+  </p>
 
-<h3 align="center">I'm Data Analyst and Machine learning engineer.</h3>
+  ---
 
+  ## 🤖 What I Build
 
+  - **Multi-Agent Systems** — LangGraph pipelines (RAG + SQL + Action agents with LLM orchestration)
+  - **MCP Automations** — GitHub, Trello, PostgreSQL integrations
+  - **Event-Driven Pipelines** — DDD-based ETL with async workflows (Celery · RabbitMQ · Redis)
+  - **LLM Infrastructure** — Semantic caching (RedisVL), streaming APIs, CI/CD for AI agents
 
-<h2>
-  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
-  How to reach me
-  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
-</h2>
+  ---
 
-</p>
-<p align="center">
+  ## 🛠️ Tech Stack
 
-<p align="center"><a href="https://www.kaggle.com/fatmaelzahramohamed" target="blank" style="padding: 2px" > <img  src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" width="32" /></a> &nbsp;&nbsp; &nbsp;&nbsp;<a href="https://www.linkedin.com/in/fatma-elzahra-mohamed-0098791ba" target="blank" ><img  src="https://i.imgur.com/78apom3.png" width="32" /></a>
-<!-- <a href = ""><img src="https://img.icons8.com/doodle/50/000000/quora--v1.png"/></a> -->
-    
-<!-- <a href = ""><img src="https://img.icons8.com/stickers/50/000000/twitter.png"/></a> -->
-<!-- <a href = ""><img src="https://img.icons8.com/stickers/50/000000/instagram-new--v2.png"/></a> -->
+  **AI/ML**
+  `LangChain` `LangGraph` `RAG` `PyTorch` `TensorFlow` `Hugging Face`
 
-</p>
+  **Backend & Infra**
+  `Django` `Celery` `RabbitMQ` `Redis` `PostgreSQL` `Docker` `MinIO` `S3`
 
+  **Dev Practices**
+  `CI/CD` `Jenkins` `DDD` `Event-Driven Architecture` `Unit Testing`
 
+  ---
 
-  
-  
- 
+  ## 📌 Featured Projects
+
+  | Project | Description |
+  |---------|-------------|
+  | [LLM-Caching](https://github.com/Fatma-elzahra-Mo/LLM-Caching) | Semantic caching with RedisVL — 85% faster LLM response times |
+  | [Mini-RAG](https://github.com/Fatma-elzahra-Mo/Mini-RAG) | Lightweight RAG combining vector retrieval + LLM generation |
+
+  ---
+
+  ## 📬 Connect
+
+  <p align="left">
+    <a href="https://www.linkedin.com/in/fatma-elzahra-mohamed-0098791ba">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:fa.elzahra.196@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://www.kaggle.com/fatmaelzahramohamed">
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+    </a>
+  </p>
